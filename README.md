@@ -1,2 +1,2 @@
 # bookster
-Bookster.by - belarusian books and reviews
+Bookster.by - belarus books and reviews
